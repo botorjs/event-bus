@@ -20,7 +20,8 @@
     "event-bus",
     "event",
     "bus",
-    "chanel",
+    "channel",
+    "point-to-point",
     "node",
     "typescript"
   ],
